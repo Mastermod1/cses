@@ -1,0 +1,12 @@
+aabac
+
+3 unique
+3 a 1 b 1 c
+_ _ _ _ _
+
+5 4 3 2 1
+
+nCr = n!/(r! (n-r)!)
+
+
+n! / (n - unique)!
